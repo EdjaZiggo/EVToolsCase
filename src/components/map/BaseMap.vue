@@ -2,6 +2,7 @@
   <header>
     <h2>Vogelbroedplaatsen in Amsterdam</h2>
   </header>
+  <h3>Filter op vogelsoort</h3>
   <nav>
     <LayerLabels :layerProps="layerProps" :birds="birds" />
   </nav>
